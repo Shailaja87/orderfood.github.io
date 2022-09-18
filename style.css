@@ -1,0 +1,105 @@
+body
+{
+    background-color:#0a071e;
+    text-align: center;
+    padding-bottom: 0%;
+    
+}
+
+.nav-text-color
+{
+    color:white;
+    margin:5px;
+}
+.icon
+{
+    height:40px;
+    width:40px;
+    margin-right: 10px;
+}
+.main-img{
+    height:100%;
+    width:90%;
+    
+}
+
+#home
+{
+    background-color: #161422;
+    text-align: center;
+
+}   
+.aboutus
+{
+    padding-top: 2%;
+   
+    padding-bottom:3%;
+}
+#About
+{
+    text-align: center;
+}
+.main-img2
+{
+    height:300px;
+    width:300px;
+    
+  
+}
+#menu
+{
+    background-color: #161422;
+    padding-top:5%;
+}
+.menu
+{
+    padding-top:2%;
+    /* padding-left: 30%; */
+}
+.col-sm
+{
+    background-color: #0a071e;;
+    height: 410px;
+    margin-right: 10px;
+    box-shadow:1px white;
+    padding:20px;
+    margin-left: 10px;
+    
+    
+}
+.menu-img
+{
+    margin-top:2px;
+    height:250px;
+    width:250px; 
+    border-bottom: 1px solid white;
+}
+.cards-menu
+{
+    margin-left:30%;
+    margin-top:10px;
+}
+.img-1
+{
+    height:60%;
+    width:80%;
+    margin-top: 8%;
+    border-radius:5%;
+}
+.cards{
+    padding-top: 1%;
+    
+    margin-bottom: 2%;
+    margin-left: 1%;
+    background-color: #0a071e;
+    /* box-shadow: 0px -5px 10px 0px white; */
+    border-radius:10%;
+    
+}
+.footer
+{
+    background-color: #161422;
+    height:10%;
+    margin-bottom: 0%;
+    padding-bottom: 0.5%;
+}
